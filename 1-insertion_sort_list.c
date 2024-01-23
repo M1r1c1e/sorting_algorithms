@@ -5,7 +5,7 @@
  * insertion_sort_list - Sorting a doubly linked list of integers in ascending order
  *                       using the insertion sort algorithm.
  *
- * @list: Pointing to the doubly linked list head
+ * @list: Pointing to doubly linked list head
  */
 void insertion_sort_list(listint_t **list)
 {
